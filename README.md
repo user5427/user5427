@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @user5427
-- 👀 I’m interested in stuff that makes my head hurt.
-- 🌱 I’m currently learning Java and C++.
-- 💞️ I’m looking to collaborate on things.
+ 👀 I’m interested in stuff that makes my head hurt.
+<!----- 🌱 I’m currently learning Java and C++.
+- 💞️ I’m looking to collaborate on things.--->
+
 - 📫 How to reach me: my github.
 
 <!---
